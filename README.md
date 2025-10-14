@@ -2,19 +2,27 @@
 
 # 👨‍💻 Juan Camilo Velásquez
 
-### Data Engineer | AI Researcher | Healthcare Tech Innovator
+### 🚀 Data Engineer | AI Researcher | Healthcare Tech Innovator
 
 <p align="center">
-  <a href="mailto:loapis1980@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/juan-camilo-velásquez-pérez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mojojv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:loapis1980@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/juan-camilo-velásquez-pérez">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mojojv">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  🩺 Transforming Healthcare Through AI & Data Engineering  ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  🩺 Transforming Healthcare Through AI & Data Engineering 🚀  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
+
+<img src="https://komarev.com/ghpvc/?username=mojojv&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -22,15 +30,246 @@
 
 ## 🌟 About Me
 
-> *"Building the bridge between cutting-edge AI and life-saving healthcare solutions"*
+> 💡 *"Building the bridge between cutting-edge AI and life-saving healthcare solutions"*
 
-I'm a **Data Engineer and AI Researcher** pursuing my degree at **Universidad EAFIT, Colombia**, with a singular focus: **revolutionizing healthcare through intelligent data systems**. My work sits at the fascinating intersection of medicine, machine learning, and cloud architecture—where every line of code has the potential to save lives.
+✋ Hi, I'm **Juan Camilo Velásquez** - a **Data Engineer and AI Researcher** at **Universidad EAFIT, Colombia** 🇨🇴
 
-**What drives me:**
-- 🎯 Making medical diagnostics faster, smarter, and more accessible
-- 🔬 Applying deep learning to solve real clinical challenges
-- ⚡ Building scalable data infrastructures that power AI in healthcare
-- 🌍 Democratizing access to advanced medical AI tools
+🎯 **My Mission:** Revolutionizing healthcare through intelligent data systems. My work sits at the fascinating intersection of medicine, machine learning, and cloud architecture—where every line of code has the potential to save lives.
+
+### 🔥 What Drives Me:
+
+```python
+passion = {
+    "🎯": "Making medical diagnostics faster, smarter, and more accessible",
+    "🔬": "Applying deep learning to solve real clinical challenges",
+    "⚡": "Building scalable data infrastructures that power AI in healthcare",
+    "🌍": "Democratizing access to advanced medical AI tools"
+}
+```
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Core Programming Languages
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python"/>
+<br><b>Python</b>
+<br><sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++"/>
+<br><b>C++</b>
+<br><sub>⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="80" height="80" alt="Go"/>
+<br><b>Go</b>
+<br><sub>⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="80" height="80" alt="R"/>
+<br><b>R</b>
+<br><sub>⭐⭐⭐</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🌐 Web Development
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript"/>
+<br><b>TypeScript</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
+<br><b>Java</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="PHP"/>
+<br><b>PHP</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🤖 AI & Machine Learning
+
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+**🎓 Specializations:**
+- 🧠 Convolutional Neural Networks (CNNs) for medical imaging
+- 🎯 Transfer Learning & Model Optimization
+- 📊 Supervised & Unsupervised Learning
+- 🔍 Anomaly Detection in Clinical Data
+
+### 🩺 Healthcare & Medical Imaging
+
+<div align="center">
+
+![DICOM](https://img.shields.io/badge/DICOM-2C3E50?style=for-the-badge&logo=dcm4chee&logoColor=white)
+![MONAI](https://img.shields.io/badge/MONAI-00BFAE?style=for-the-badge&logo=monai&logoColor=white)
+
+</div>
+
+**💊 Capabilities:**
+- 🏥 DICOM Standard Implementation & Processing
+- 🖼️ Medical Image Segmentation & Analysis
+- 🔬 Oncology-focused AI Diagnostics
+- 📋 Clinical Information Systems Integration
+
+### ☁️ Cloud & DevOps
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="AWS"/>
+<br><b>AWS</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" alt="GCP"/>
+<br><b>GCP</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" alt="Azure"/>
+<br><b>Azure</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
+<br><b>Docker</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60" alt="Kubernetes"/>
+<br><b>Kubernetes</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+<br><b>Git</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🎨 Frontend & Frameworks
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="14.28%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
+<br><b>HTML5</b>
+</td>
+<td align="center" width="14.28%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
+<br><b>CSS3</b>
+</td>
+<td align="center" width="14.28%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60" alt="Django"/>
+<br><b>Django</b>
+</td>
+<td align="center" width="14.28%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="60" height="60" alt="Rails"/>
+<br><b>Rails</b>
+</td>
+<td align="center" width="14.28%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+<br><b>Git</b>
+</td>
+<td align="center" width="14.28%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" alt="Firebase"/>
+<br><b>Firebase</b>
+</td>
+<td align="center" width="14.28%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="Flutter"/>
+<br><b>Flutter</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🗄️ Databases & Tools
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
+<br><b>MySQL</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB"/>
+<br><b>MongoDB</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickhouse/clickhouse-original.svg" width="60" height="60" alt="ClickHouse"/>
+<br><b>ClickHouse</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="60" height="60" alt="Angular"/>
+<br><b>Angular</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap"/>
+<br><b>Bootstrap</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickup/clickup-original.svg" width="60" height="60" alt="ClickUp"/>
+<br><b>ClickUp</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="60" height="60" alt="Gradle"/>
+<br><b>Gradle</b>
+</td>
+<td align="center" width="20%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60" height="60" alt="Jupyter"/>
+<br><b>Jupyter</b>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/>
+<br><b>NumPy</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -38,136 +277,66 @@ I'm a **Data Engineer and AI Researcher** pursuing my degree at **Universidad EA
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🫁 **PulmoScan-CNN**
-*Deep Learning for Cardiopulmonary Diagnostics*
+<sub>Deep Learning for Cardiopulmonary Diagnostics</sub>
 
 A production-ready CNN system that assists radiologists in detecting lung and heart diseases from medical imaging.
 
-**Impact:** Early detection capabilities for pulmonary conditions  
-**Tech:** TensorFlow, Keras, Python, Medical Imaging Processing
+**💥 Impact:** Early detection capabilities for pulmonary conditions  
+**🔧 Tech Stack:**  
+`TensorFlow` `Keras` `Python` `Medical Imaging`
 
-🔗 *Designed to integrate seamlessly into clinical workflows*
+<sub>🔗 Designed to integrate seamlessly into clinical workflows</sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 **ASTRAI Framework**
-*End-to-End AI for Medical Imaging*
+<sub>End-to-End AI for Medical Imaging</sub>
 
-Comprehensive AI platform for healthcare applications, featuring DICOM processing, image segmentation, and anomaly detection—with a specialized oncology diagnostics module.
+Comprehensive AI platform for healthcare applications, featuring DICOM processing, image segmentation, and anomaly detection.
 
-**Impact:** Scalable AI infrastructure for hospitals  
-**Tech:** PyTorch, MONAI, DICOM, Cloud Architecture
+**💥 Impact:** Scalable AI infrastructure for hospitals  
+**🔧 Tech Stack:**  
+`PyTorch` `MONAI` `DICOM` `Cloud Architecture`
 
-🔗 *Built in collaboration with healthcare professionals*
+<sub>🔗 Built in collaboration with healthcare professionals</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 **Medical Data Infrastructure**
-*NAS + Cloud Hybrid Architecture*
+<sub>NAS + Cloud Hybrid Architecture</sub>
 
 Enterprise-grade data architecture for managing large-scale medical datasets with security, compliance, and real-time accessibility.
 
-**Impact:** Secure, scalable storage for AI training  
-**Tech:** MySQL, AWS/GCP, Docker, MLOps Pipelines
+**💥 Impact:** Secure, scalable storage for AI training  
+**🔧 Tech Stack:**  
+`MySQL` `AWS/GCP` `Docker` `MLOps`
 
-🔗 *Optimized for HIPAA-compliant deployments*
+<sub>🔗 Optimized for HIPAA-compliant deployments</sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📐 **BioMath Models**
-*Mathematical Modeling for Healthcare*
+<sub>Mathematical Modeling for Healthcare</sub>
 
 Advanced mathematical simulations and signal processing models applied to healthcare data analysis and bioinformatics.
 
-**Impact:** Novel approaches to complex medical data  
-**Tech:** Python, NumPy, SciPy, Signal Processing
+**💥 Impact:** Novel approaches to complex medical data  
+**🔧 Tech Stack:**  
+`Python` `NumPy` `SciPy` `Signal Processing`
 
-🔗 *Research-driven computational biology*
+<sub>🔗 Research-driven computational biology</sub>
 
 </td>
 </tr>
 </table>
-
----
-
-## 💼 Technical Expertise
-
-<details open>
-<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-**Specializations:**
-- 🧠 Convolutional Neural Networks (CNNs) for medical imaging
-- 🎯 Transfer learning & model optimization
-- 📊 Supervised & unsupervised learning algorithms
-- 🔍 Anomaly detection in clinical data
-
-</details>
-
-<details open>
-<summary><b>🩺 Medical Imaging & Healthcare Tech</b></summary>
-<br>
-
-![DICOM](https://img.shields.io/badge/DICOM-2C3E50?style=for-the-badge&logo=dcm4chee&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MONAI](https://img.shields.io/badge/MONAI-00BFAE?style=for-the-badge&logo=monai&logoColor=white)
-
-**Capabilities:**
-- 🏥 DICOM standard implementation & processing
-- 🖼️ Medical image segmentation & analysis
-- 🔬 Oncology-focused AI diagnostics
-- 📋 Integration with clinical information systems
-
-</details>
-
-<details open>
-<summary><b>⚙️ Data Engineering & Cloud Architecture</b></summary>
-<br>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Infrastructure:**
-- ☁️ Cloud-native data pipelines (AWS, GCP, Azure)
-- 🐳 Containerization & orchestration (Docker, K8s)
-- 🔄 MLOps & CI/CD for AI models
-- 🗄️ Hybrid NAS + Cloud storage architectures
-
-</details>
-
-<details open>
-<summary><b>👨‍💻 Programming & Data Science</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Core Skills:**
-- 🐍 Advanced Python development (OOP, async, optimization)
-- 📊 Data analysis & visualization (Pandas, NumPy, Matplotlib)
-- 🗃️ Database design & optimization (SQL, NoSQL)
-- 📈 Statistical modeling & hypothesis testing
-
-</details>
 
 ---
 
@@ -177,31 +346,47 @@ Advanced mathematical simulations and signal processing models applied to health
 class CurrentObjectives:
     def __init__(self):
         self.learning = [
-            "Advanced medical image segmentation for oncology",
-            "MLOps pipelines for healthcare AI deployment",
-            "Cloud-native architectures for medical datasets",
-            "Real-time AI inference in clinical environments"
+            "🔬 Advanced medical image segmentation for oncology",
+            "⚙️ MLOps pipelines for healthcare AI deployment",
+            "☁️ Cloud-native architectures for medical datasets",
+            "⚡ Real-time AI inference in clinical environments"
         ]
         
         self.building = [
-            "Production-ready healthcare AI systems",
-            "Scalable data infrastructure for medical research",
-            "Open-source tools for medical AI developers"
+            "🏥 Production-ready healthcare AI systems",
+            "📊 Scalable data infrastructure for medical research",
+            "🌐 Open-source tools for medical AI developers"
         ]
         
     def mission(self):
-        return "Making AI-powered healthcare accessible to everyone"
+        return "🌍 Making AI-powered healthcare accessible to everyone"
+
+# Initialize objectives
+me = CurrentObjectives()
+print(me.mission())
 ```
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mojojv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mojojv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mojojv&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojojv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojojv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mojojv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=mojojv&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -211,25 +396,55 @@ class CurrentObjectives:
 
 I'm always excited to collaborate on projects that combine **AI, data engineering, and healthcare**. Whether you're:
 
-- 🏥 A healthcare provider looking to implement AI solutions
-- 🔬 A researcher working on medical imaging
-- 💻 A developer passionate about health tech
-- 🎓 A student interested in AI for social good
+<table>
+<tr>
+<td width="50%">
 
-**Let's connect and build something impactful together!**
+### 🎯 Perfect Match If You're:
 
-<div align="center">
+- 🏥 A **healthcare provider** looking to implement AI solutions
+- 🔬 A **researcher** working on medical imaging
+- 💻 A **developer** passionate about health tech
+- 🎓 A **student** interested in AI for social good
+- 🚀 An **entrepreneur** building healthcare startups
 
-### 📬 Reach Out
+</td>
+<td width="50%">
 
-[![Email](https://img.shields.io/badge/Email-loapis1980%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loapis1980@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-velásquez-pérez)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mojojv)
+### 🌟 I Can Help With:
+
+- 🤖 AI/ML model development and deployment
+- 📊 Data pipeline architecture and optimization
+- ☁️ Cloud infrastructure for healthcare data
+- 🩺 Medical imaging analysis systems
+- 📚 Mentoring and knowledge sharing
+
+</td>
+</tr>
+</table>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=mojojv&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+<div align="center">
 
-### ⭐ *"Engineering the future of healthcare, one algorithm at a time"* ⭐
+## 📬 Get In Touch
+
+<p align="center">
+  <a href="mailto:loapis1980@gmail.com">
+    <img src="https://img.shields.io/badge/Email-loapis1980%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/juan-camilo-velásquez-pérez">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mojojv">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+### 💫 *"Engineering the future of healthcare, one algorithm at a time"* 💫
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 </div>
