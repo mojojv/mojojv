@@ -2,7 +2,7 @@
 
 # 👨‍💻 Juan Camilo Velásquez
 
-### 🚀 Data Engineer | AI Researcher | Healthcare & Bioinformatics Innovator
+### 🚀 Data Engineer | AI Researcher | Healthcare & Bioinformatics
 
 <p align="center">
   <a href="mailto:loapis1980@gmail.com">
@@ -32,9 +32,7 @@
 
 > 💡 *"Building the bridge between AI, medical imaging, and computational biology"*
 
-✋ Hi, I'm **Juan Camilo Velásquez** — a **Data Engineer and AI Researcher** based in Colombia 🇨🇴
-
-🎯 **My Mission:** Revolutionizing healthcare through intelligent data systems — from **radiology and medical imaging** to the molecular level with **bioinformatics and genomics**. My work sits at the intersection of medicine, machine learning, and computational biology.
+✋ Hi, I'm **Juan Camilo Velásquez** — a **Data science * 🇨🇴
 
 ### 🔥 What Drives Me:
 
@@ -81,30 +79,6 @@ passion = {
 </table>
 </div>
 
-### 🌐 Web Development
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript"/>
-<br><b>TypeScript</b>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
-<br><b>Java</b>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="PHP"/>
-<br><b>PHP</b>
-</td>
-</tr>
-</table>
-</div>
 
 ### 🤖 AI & Machine Learning
 
@@ -258,10 +232,7 @@ passion = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap"/>
 <br><b>Bootstrap</b>
 </td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickup/clickup-original.svg" width="60" height="60" alt="ClickUp"/>
-<br><b>ClickUp</b>
-</td>
+
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="60" height="60" alt="Gradle"/>
 <br><b>Gradle</b>
@@ -286,66 +257,30 @@ passion = {
 <tr>
 <td width="50%" valign="top">
 
-### 🫁 **PulmoScan-CNN** 🚧
-<sub>Deep Learning for Cardiopulmonary Diagnostics</sub>
-
-A CNN-based system to assist in detecting lung and heart conditions from medical imaging (chest X-rays / echocardiograms).
-
-**💥 Goal:** Early detection support for pulmonary conditions
-**🔧 Tech Stack:**
-`TensorFlow` `Keras` `Python` `Medical Imaging`
-
-<sub>🔗 Actively being rebuilt with real, reproducible code</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧬 **GenomeToolkit** 🚧
+### 🧬 [GenomeToolkit](https://github.com/mojojv/GenomeToolkit)
 <sub>Open-Source Sequence Analysis in Python</sub>
 
-A growing collection of Biopython-based tools for FASTA/FASTQ parsing, sequence stats (GC content, quality scores), and pairwise alignment.
+Biopython-based tools for FASTA/FASTQ parsing, sequence statistics (GC content, quality scores), tested with pytest and running CI.
 
-**💥 Goal:** Accessible, well-documented bioinformatics tooling
 **🔧 Tech Stack:**
-`Python` `Biopython` `pandas` `NCBI BLAST`
-
-<sub>🔗 First open-source release in progress</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 **ASTRAI Framework** 🚧
-<sub>End-to-End AI for Medical Imaging</sub>
-
-AI platform concept for healthcare applications, featuring DICOM processing, image segmentation, and anomaly detection.
-
-**💥 Goal:** Scalable AI infrastructure for hospitals
-**🔧 Tech Stack:**
-`PyTorch` `MONAI` `DICOM` `Cloud Architecture`
-
-<sub>🔗 Early-stage — architecture design underway</sub>
+`Python` `Biopython` `pandas` `pytest`
 
 </td>
 <td width="50%" valign="top">
 
-### 📐 **BioMath Models** 🚧
-<sub>Mathematical Modeling for Healthcare & Biology</sub>
+### 🫁 [PulmoScan-CNN](https://github.com/mojojv/PulmoScan-CNN)
+<sub>Deep Learning for Cardiopulmonary Diagnostics</sub>
 
-Mathematical simulations and signal-processing models applied to healthcare data analysis and computational biology.
+CNN-based approach to detecting lung and heart conditions from medical imaging (chest X-rays / echocardiograms). 🚧 Actively being rebuilt with real, reproducible code.
 
-**💥 Goal:** Novel quantitative approaches to biomedical & genomic data
 **🔧 Tech Stack:**
-`Python` `NumPy` `SciPy` `Signal Processing`
-
-<sub>🔗 Research-driven, work in progress</sub>
+`TensorFlow` `Keras` `Python` `Medical Imaging`
 
 </td>
 </tr>
 </table>
 
-<sub>🚧 = active development — code, issues and contributions welcome as these repos evolve in the open.</sub>
+<sub>Every link above points to a real, existing repository — no placeholders.</sub>
 
 ---
 
